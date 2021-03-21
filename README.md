@@ -1,3 +1,3 @@
 # Collections-in-Java
 
-Samples for practicing Java in Collections
+Samples for practicing Java Collections
